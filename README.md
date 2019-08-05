@@ -5,6 +5,10 @@ This is the sample application for
 Learn Web Development with Rails_](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+## Summary
+
+This Sample application will feature a feed of user's posts, custom styling and layout, authentication and security, and the ability to follow users posts. During development the application will also implement feature testing to monitor whether core functionalities are working as they should.
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
